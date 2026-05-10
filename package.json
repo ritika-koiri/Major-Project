@@ -1,5 +1,5 @@
 {
-  "engines" :{
+  "engines": {
     "node": "24.13.0"
   },
   "name": "major-project",
@@ -19,7 +19,6 @@
     "connect-mongo": "^4.6.0",
     "cookie-parser": "^1.4.7",
     "dotenv": "^17.4.2",
-    "ejs": "^5.0.1",
     "ejs-mate": "^4.0.0",
     "express": "^5.2.1",
     "express-session": "^1.19.0",
